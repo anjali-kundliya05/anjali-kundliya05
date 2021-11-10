@@ -50,8 +50,8 @@
 <p align="left"> <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <a> <img src="https://img.icons8.com/fluency/48/000000/microsoft-access-2019.png" alt="msaccess" width="40" height="40"/> </a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anjali-kundliya05&show_icons=true&locale=en&layout=compact" alt="anjali-kundliya05" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anjali-kundliya05&show_icons=true&locale=en" alt="anjali-kundliya05" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anjali-kundliya05&" alt="anjali-kundliya05" /></p>
+<p align="center"><a href="https://github.com/anjali-kundliya05">
+<img width=40% src="https://github-readme-stats.vercel.app/api/top-langs?username=anjali-kundliya05&show_icons=true&locale=en&layout=compact" alt="anjali-kundliya05" />
+<img width=48% src="https://github-readme-stats.vercel.app/api?username=anjali-kundliya05&show_icons=true&locale=en" alt="anjali-kundliya05" />
+<img width=40% src="https://github-readme-streak-stats.herokuapp.com/?user=anjali-kundliya05&" alt="anjali-kundliya05" /></p>
+<img alt="Anjali's Activity Graph" width="99%" src="https://activity-graph.herokuapp.com/graph?username=anjali-kundliya05&bg_color=FFFFFF&color=000000&line=#38940A&point=000000&hide_border=true">
